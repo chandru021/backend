@@ -1,0 +1,285 @@
+[
+    {
+      "place": "Salem",
+      "complaint": "The roads in our city are in terrible condition, full of potholes and uneven surfaces, making travel difficult and dangerous.",
+      "latitude": 11.6643,
+      "longitude": 78.146,
+      "person_id": 1
+    },
+    {
+      "place": "Salem",
+      "complaint": "There is a severe shortage of clean drinking water in many parts of Salem, forcing residents to rely on expensive alternatives.",
+      "latitude": 11.6643,
+      "longitude": 78.146,
+      "person_id": 2
+    },
+    {
+      "place": "Salem",
+      "complaint": "The lack of proper waste management is leading to a buildup of garbage in Salem, creating unhygienic conditions and health hazards.",
+      "latitude": 11.6643,
+      "longitude": 78.146,
+      "person_id": 3
+    },
+    {
+      "place": "Salem",
+      "complaint": "Public transportation in Salem is inadequate, with overcrowded buses and long waiting times, making commuting a hassle.",
+      "latitude": 11.6643,
+      "longitude": 78.146,
+      "person_id": 4
+    },
+    {
+      "place": "Erode",
+      "complaint": "There is a need for more green spaces and parks in Erode, as existing ones are insufficient for the growing population.",
+      "latitude": 11.341,
+      "longitude": 77.7172,
+      "person_id": 5
+    },
+    {
+      "place": "Erode",
+      "complaint": "The air quality in Erode is poor, with high levels of pollution from vehicles and industries, posing a threat to health.",
+      "latitude": 11.341,
+      "longitude": 77.7172,
+      "person_id": 6
+    },
+    {
+      "place": "Erode",
+      "complaint": "There is a lack of job opportunities in Erode, forcing many residents to migrate to other cities in search of work.",
+      "latitude": 11.341,
+      "longitude": 77.7172,
+      "person_id": 7
+    },
+    {
+      "place": "Chennai",
+      "complaint": "The lack of proper waste management is leading to a buildup of garbage in Chennai, creating unhygienic conditions and health hazards.",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "person_id": 8
+    },
+    {
+      "place": "Chennai",
+      "complaint": "The education system in Chennai needs improvement, with schools lacking basic facilities and quality teachers.",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "person_id": 9
+    },
+    {
+      "place": "Chennai",
+      "complaint": "The traffic congestion in Chennai is increasing day by day, leading to long delays and frustration among commuters.",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "person_id": 10
+    },
+    {
+      "place": "Coimbatore",
+      "complaint": "Public transportation in Coimbatore is inadequate, with overcrowded buses and long waiting times, making commuting a hassle.",
+      "latitude": 11.0168,
+      "longitude": 76.9558,
+      "person_id": 11
+    },
+    {
+      "place": "Coimbatore",
+      "complaint": "The lack of job opportunities in Coimbatore is forcing many residents to migrate to other cities in search of work.",
+      "latitude": 11.0168,
+      "longitude": 76.9558,
+      "person_id": 12
+    },
+    {
+      "place": "Coimbatore",
+      "complaint": "The healthcare system in Coimbatore is inadequate, with hospitals and clinics lacking proper facilities and trained staff.",
+      "latitude": 11.0168,
+      "longitude": 76.9558,
+      "person_id": 13
+    },
+    {
+      "place": "Tiruppur",
+      "complaint": "There is a need for more green spaces and parks in Tiruppur, as existing ones are insufficient for the growing population.",
+      "latitude": 11.1075,
+      "longitude": 77.3398,
+      "person_id": 14
+    },
+    {
+      "place": "Tiruppur",
+      "complaint": "The air quality in Tiruppur is poor, with high levels of pollution from vehicles and industries, posing a threat to health.",
+      "latitude": 11.1075,
+      "longitude": 77.3398,
+      "person_id": 15
+    },
+    {
+      "place": "Tiruppur",
+      "complaint": "There is a lack of job opportunities in Tiruppur, forcing many residents to migrate to other cities in search of work.",
+      "latitude": 11.1075,
+      "longitude": 77.3398,
+      "person_id": 16
+    },
+    {
+      "place": "Madurai",
+      "complaint": "The education system in Madurai needs improvement, with schools lacking basic facilities and quality teachers.",
+      "latitude": 9.9252,
+      "longitude": 78.1198,
+      "person_id": 17
+    },
+    {
+      "place": "Madurai",
+      "complaint": "The healthcare system in Madurai is inadequate, with hospitals and clinics lacking proper facilities and trained staff.",
+      "latitude": 9.9252,
+      "longitude": 78.1198,
+      "person_id": 18
+    },
+    {
+      "place": "Madurai",
+      "complaint": "The lack of proper waste management is leading to a buildup of garbage in Madurai, creating unhygienic conditions and health hazards.",
+      "latitude": 9.9252,
+      "longitude": 78.1198,
+      "person_id": 19
+    },
+    {
+      "place": "Rameswaram",
+      "complaint": "There is a need for more recreational facilities in Rameswaram, such as sports complexes and theaters, for the entertainment of residents.",
+      "latitude": 9.2876,
+      "longitude": 79.3129,
+      "person_id": 20
+    }
+  ,
+  
+    {
+      "place": "Chennimalai Murugan Temple",
+      "complaint": "The lack of proper waste management around Chennimalai Murugan Temple is leading to a buildup of garbage, creating unhygienic conditions and health hazards.",
+      "latitude": 11.222222,
+      "longitude": 77.633333,
+      "person_id": 21
+    },
+    {
+      "place": "Chennimalai Murugan Temple",
+      "complaint": "There is a need for better street lighting around Chennimalai Murugan Temple, especially in the outskirts, to improve safety and security at night.",
+      "latitude": 11.222222,
+      "longitude": 77.633333,
+      "person_id": 22
+    },
+    {
+      "place": "Sangameswarar Temple",
+      "complaint": "The traffic congestion around Sangameswarar Temple is increasing day by day, leading to long delays and frustration among commuters.",
+      "latitude": 11.333333,
+      "longitude": 78.133333,
+      "person_id": 23
+    },
+    {
+      "place": "Sangameswarar Temple",
+      "complaint": "There is a lack of proper drainage systems around Sangameswarar Temple, leading to waterlogging during the monsoon season.",
+      "latitude": 11.333333,
+      "longitude": 78.133333,
+      "person_id": 24
+    },
+    {
+      "place": "Thindal Murugan Temple",
+      "complaint": "The lack of job opportunities around Thindal Murugan Temple is forcing many residents to migrate to other cities in search of work.",
+      "latitude": 11.305556,
+      "longitude": 78.072222,
+      "person_id": 25
+    },
+    {
+      "place": "Thindal Murugan Temple",
+      "complaint": "There is a severe shortage of clean drinking water around Thindal Murugan Temple, forcing residents to rely on expensive alternatives.",
+      "latitude": 11.305556,
+      "longitude": 78.072222,
+      "person_id": 26
+    },
+    {
+      "place": "Bannari Amman Temple",
+      "complaint": "The air quality around Bannari Amman Temple is poor, with high levels of pollution from vehicles and industries, posing a threat to health.",
+      "latitude": 11.166667,
+      "longitude": 77.733333,
+      "person_id": 27
+    },
+    {
+      "place": "Bannari Amman Temple",
+      "complaint": "The lack of proper waste management around Bannari Amman Temple is leading to a buildup of garbage, creating unhygienic conditions and health hazards.",
+      "latitude": 11.166667,
+      "longitude": 77.733333,
+      "person_id": 28
+    },
+    {
+      "place": "Vellode Bird Sanctuary",
+      "complaint": "The authorities need to take steps to preserve and protect the natural habitat around Vellode Bird Sanctuary, including wildlife conservation efforts.",
+      "latitude": 11.416667,
+      "longitude": 78.033333,
+      "person_id": 29
+    },
+    {
+      "place": "Vellode Bird Sanctuary",
+      "complaint": "There is a need for more recreational facilities around Vellode Bird Sanctuary, such as sports complexes and theaters, for the entertainment of visitors.",
+      "latitude": 11.416667,
+      "longitude": 78.033333,
+      "person_id": 30
+    },
+    {
+      "place": "Sathyamangalam Tiger Reserve",
+      "complaint": "The lack of proper facilities for tourists at Sathyamangalam Tiger Reserve is discouraging visitors, affecting tourism revenue.",
+      "latitude": 11.583333,
+      "longitude": 77.708333,
+      "person_id": 31
+    },
+    {
+      "place": "Sathyamangalam Tiger Reserve",
+      "complaint": "There is a need for better transportation options to and from Sathyamangalam Tiger Reserve, especially for tourists.",
+      "latitude": 11.583333,
+      "longitude": 77.708333,
+      "person_id": 32
+    },
+    {
+      "place": "Bhavanisagar Dam",
+      "complaint": "The lack of proper maintenance of Bhavanisagar Dam is leading to water leakage, affecting its efficiency and lifespan.",
+      "latitude": 11.233333,
+      "longitude": 78.033333,
+      "person_id": 33
+    },
+    {
+      "place": "Bhavanisagar Dam",
+      "complaint": "There is a need for better safety measures around Bhavanisagar Dam to prevent accidents and ensure the well-being of visitors.",
+      "latitude": 11.233333,
+      "longitude": 78.033333,
+      "person_id": 34
+    },
+    {
+      "place": "Kodiveri Dam",
+      "complaint": "The lack of proper maintenance of Kodiveri Dam is leading to water leakage, affecting its efficiency and lifespan.",
+      "latitude": 11.166667,
+      "longitude": 78.383333,
+      "person_id": 35
+    },
+    {
+      "place": "Kodiveri Dam",
+      "complaint": "There is a need for better safety measures around Kodiveri Dam to prevent accidents and ensure the well-being of visitors.",
+      "latitude": 11.166667,
+      "longitude": 78.383333,
+      "person_id": 36
+    },
+    {
+      "place": "Government Museum",
+      "complaint": "The lack of proper maintenance of Government Museum is leading to deterioration of artifacts and exhibits, affecting its cultural value.",
+      "latitude": 11.322222,
+      "longitude": 78.155556,
+      "person_id": 37
+    },
+    {
+      "place": "Government Museum",
+      "complaint": "There is a need for better preservation techniques at Government Museum to protect artifacts from damage and decay.",
+      "latitude": 11.322222,
+      "longitude": 78.155556,
+      "person_id": 38
+    },
+    {
+      "place": "VOC Park and Zoo",
+      "complaint": "The lack of proper maintenance of VOC Park and Zoo is leading to deteriorating conditions for animals, affecting their well-being.",
+      "latitude": 11.316667,
+      "longitude": 78.166667,
+      "person_id": 39
+    },
+    {
+      "place": "VOC Park and Zoo",
+      "complaint": "There is a need for more educational programs at VOC Park and Zoo to raise awareness about wildlife conservation and animal welfare.",
+      "latitude": 11.316667,
+      "longitude": 78.166667,
+      "person_id": 40
+    }
+  ]
+    
